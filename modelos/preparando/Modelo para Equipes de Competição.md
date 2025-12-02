@@ -1,0 +1,18 @@
+- **Termo de Abertura do Projeto (Project Charter):** Um documento formal que autoriza o projeto e fornece uma visão geral de alto nível. Inclui:
+    - **Declaração do Problema/Desafio:** O que a equipe está tentando resolver ou o desafio da competição.
+    - **Metas e Objetivos:** O que se espera alcançar (ex: vencer a competição, desenvolver uma tecnologia específica).
+    - **Escopo do Projeto:** Limites do projeto, o que será e o que não será feito.
+    - **Justificativa:** A importância e o porquê do projeto.
+- **Plano de Gerenciamento do Projeto:** Um conjunto de planos subsidiários que detalham como o projeto será executado, monitorado e finalizado:
+    - **Plano de Trabalho/Cronograma:** Detalha as tarefas, prazos e marcos importantes. Ferramentas como o [Asana](https://asana.com/pt/templates/project-documentation) ou [Smartsheet](https://pt.smartsheet.com/content/project-documentation-templates) oferecem modelos úteis para isso.
+    - **Plano de Gerenciamento da Equipe:** Define a estrutura da equipe, papéis, responsabilidades e canais de comunicação.
+    - **Plano de Recursos e Orçamento:** Detalha os recursos necessários (materiais, financeiros, humanos) e como serão alocados.
+    - **Plano de Riscos:** Identifica potenciais problemas e estratégias de mitigação.
+- **Documentação Técnica (se aplicável):** Em competições que envolvem engenharia ou tecnologia (ex: robótica, Fórmula Student), é crucial incluir:
+    - **Especificações de Design:** Desenhos, diagramas e descrições técnicas.
+    - **Metodologia:** Descrição dos métodos e processos utilizados (ex: metodologia ágil).
+    - **Resultados de Testes e Prototipagem:** Registros dos testes realizados e seus resultados.
+- **Relatórios e Entregas:**
+    - **Relatórios de Progresso Periódicos:** Acompanhamento regular do desenvolvimento em relação ao cronograma.
+    - **Documentação Pós-Competição:** Análise de desempenho, lições aprendidas e feedback para projetos futuros.
+    
