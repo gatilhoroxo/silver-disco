@@ -13,13 +13,13 @@
 ### 1.1 Título do Projeto
 [Nome completo e descritivo do projeto]
 
-### 1.2 Coordenador do Projeto
+### 1.2 Líder do Projeto
 **Nome:** [Nome completo]  
 **Contato:** [E-mail e telefone]  
 **Cargo na LASER:** [Membro/Coordenador/etc]  
 **Área de Especialização:** [Área técnica]
 
-### 1.3 Vice-Coordenador (se aplicável)
+### 1.3 Vice-Líder (se aplicável)
 **Nome:** [Nome completo]  
 **Contato:** [E-mail e telefone]
 
