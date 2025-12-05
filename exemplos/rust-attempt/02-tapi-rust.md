@@ -71,8 +71,8 @@ Pesquisar como usar o Rust em embarcados e explorar seu uso dentro dessa área.
 #### 3.3.2 Impactos Esperados
 - **Acadêmico:** Apresentações do uso de Rust e amostra de projetos com essa linguagem. 
 - **Social:** ...
-- **Técnico:** ...[Tecnologias desenvolvidas, inovações]
-- **Institucional:** ...[Fortalecimento da LASER, parcerias]
+- **Técnico:** ... [Tecnologias desenvolvidas, inovações]
+- **Institucional:** ... [Fortalecimento da LASER, parcerias]
 
 ---
 
@@ -116,7 +116,7 @@ Pesquisa-ação
 - Ler documentação da linguagem para embarcados
 - Implementar códigos simples em rust para embarcados 
 
-#### Fase 2: Rust para Embarcados
+#### Fase 2: Projetos de Embarcados com Rust 
 **Período:** 02/01/2026 - 17/01/2026
 **Objetivos:** Compreensão de como a linguagem é usada em embarcados
 **Atividades:** 
@@ -144,6 +144,7 @@ Pesquisa-ação
 
 ### 5.3 Ferramentas e Tecnologias
 **Hardware:**
+- pelo menos um microcontrolador (esp,stm,arduino)
 - [Equipamento/Plataforma 1]
 - [Equipamento/Plataforma 2]
 
@@ -176,6 +177,7 @@ Pesquisa-ação
 - [Premissa 3]
 
 ### 6.4 Restrições
+- não se aplica
 - [Restrição 1: ex: orçamento]
 - [Restrição 2: ex: prazo]
 - [Restrição 3: ex: recursos disponíveis]
@@ -242,6 +244,8 @@ A = Alta | M = Média | B = Baixa
 
 ## 10. Plano de Comunicação e Divulgação
 
+não se aplica, eu acho
+
 ### 10.1 Comunicação Interna
 **Reuniões da Equipe:**
 - **Frequência:** [Periodicidade]
@@ -277,6 +281,8 @@ A = Alta | M = Média | B = Baixa
 ---
 
 ## 11. Plano de Parcerias e Extensão
+
+não se aplica, eu acho
 
 ### 11.1 Parcerias Previstas
 | Organização | Tipo | Natureza da Parceria | Status | Contato |
