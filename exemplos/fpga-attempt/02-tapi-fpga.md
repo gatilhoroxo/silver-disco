@@ -1,23 +1,30 @@
 # Termo de Abertura de Projeto Interno
 
-**Nome do Projeto:** Explorando a linguagem Rust em Embarcados
-**Tipo:** Misto de Pesquisa e Ensino
-**Período:** 15/12/2025 a 15/03/2026  
+**Nome do Projeto:** [Nome do projeto]  
+**Tipo:** [ ] Pesquisa  [ ] Extensão  [ ] Ensino  [ ] Misto  
+**Período:** [Data de início] a [Data de término prevista]  
 **Versão:** 1.0  
-**Data:** 04/12/2025
+**Data:** [DD/MM/AAAA]
+
+### Recursos para Analisar
+- https://fpgacademy.org/index.html 
+- https://learn.sparkfun.com/tutorials/programming-an-fpga/all
+- https://www.altera.com/design/fpga-training/overview
+- https://nandland.com/fpga-101/
+- https://fpgacoding.com/fpga-sites/
 
 ---
 
 ## 1. Identificação do Projeto
 
-### 1.1 Explorando a linguagem Rust em Embarcados
+### 1.1 Título do Projeto
 [Nome completo e descritivo do projeto]
 
 ### 1.2 Líder do Projeto
-**Nome:** Maurício Andrey Dias
-**Contato:** mauricio.andrey@ufpe.br | mauricioandreyss@gmail.com
-**Cargo na LASER:** Coordenador de Pesquisa  
-**Área de Especialização:** ...
+**Nome:** [Nome completo]  
+**Contato:** [E-mail e telefone]  
+**Cargo na LASER:** [Membro/Coordenador/etc]  
+**Área de Especialização:** [Área técnica]
 
 ### 1.3 Vice-Líder (se aplicável)
 **Nome:** [Nome completo]  
@@ -28,23 +35,29 @@
 ## 2. Justificativa
 
 ### 2.1 Contexto e Motivação
-Entender o potencial de Rust dentro dos projetos de sistemas embarcados. 
+[Descrever o contexto que motivou a criação do projeto, o problema identificado ou a oportunidade detectada]
 
 ### 2.2 Relevância Acadêmica
-Poder ter uma ferramenta a mais para usar dentro dos projetos da liga. 
+[Explicar a importância do projeto para a formação dos membros e para o avanço do conhecimento na área]
 
 ### 2.3 Impacto Social e Extensão
-Ter workshops e palestras de uso de Rust em sistemas embarcados. 
+[Descrever como o projeto pode beneficiar a comunidade externa, empresas, organizações ou a sociedade em geral]
 
 ### 2.4 Alinhamento com os ODS
 Objetivos de Desenvolvimento Sustentável relacionados:
-- ODS 9 - Indústria, Inovação e Infraestrutura
-- ODS 17 - Parcerias e Meios de Implementação
+- [ ] ODS 4 - Educação de Qualidade
+- [ ] ODS 9 - Indústria, Inovação e Infraestrutura
+- [ ] ODS 11 - Cidades e Comunidades Sustentáveis
+- [ ] ODS 17 - Parcerias e Meios de Implementação
+- [ ] Outros: _________________
 
 ### 2.5 Conexão com Áreas Estratégicas da LASER
 - [ ] IoT
 - [ ] Automação Residencial e Predial
 - [ ] Robótica Aplicada
+- [ ] Agricultura de Precisão
+- [ ] Tecnologias para Saúde
+- [ ] Engenharia Biomédica
 - [ ] IA em Sistemas Embarcados
 - [ ] Tecnologias Automotivas
 - [ ] Sistemas Críticos
@@ -56,23 +69,26 @@ Objetivos de Desenvolvimento Sustentável relacionados:
 ## 3. Objetivos
 
 ### 3.1 Objetivo Geral
-Pesquisar como usar o Rust em embarcados e explorar seu uso dentro dessa área. 
+[Objetivo principal e abrangente do projeto]
 
 ### 3.2 Objetivos Específicos
-1. Usar a linguagem em projetos de diferentes níveis e áreas. 
-2. Comparar os resultados de performance (tempo, memória) com o uso de outras linguagens em diferentes tipos de projetos. 
+1. [Objetivo mensurável 1]
+2. [Objetivo mensurável 2]
+3. [Objetivo mensurável 3]
+4. [Objetivo mensurável 4]
 
 ### 3.3 Resultados Esperados
 
 #### 3.3.1 Produtos/Entregas
-- Biblioteca funcional de Rust para pelo menos um microcontrolador
-- Documentação das bibliotecas usadas e criadas durante o projeto
+- [Entrega 1: ex: protótipo funcional]
+- [Entrega 2: ex: documentação técnica]
+- [Entrega 3: ex: artigo científico]
 
 #### 3.3.2 Impactos Esperados
-- **Acadêmico:** Apresentações do uso de Rust e amostra de projetos com essa linguagem. 
-- **Social:** ...
-- **Técnico:** ... [Tecnologias desenvolvidas, inovações]
-- **Institucional:** ... [Fortalecimento da LASER, parcerias]
+- **Acadêmico:** [Publicações, TCCs, apresentações]
+- **Social:** [Beneficiários, alcance da extensão]
+- **Técnico:** [Tecnologias desenvolvidas, inovações]
+- **Institucional:** [Fortalecimento da LASER, parcerias]
 
 ---
 
@@ -82,7 +98,7 @@ Pesquisar como usar o Rust em embarcados e explorar seu uso dentro dessa área.
 
 | Nome Completo | Curso/Período | Área de Expertise | Papel no Projeto | Carga Horária Semanal |
 |---------------|---------------|-------------------|------------------|-----------------------|
-| Maurício Andrey | EC/6 | ... | Líder | 4h |
+| [Nome 1] | [Curso] | [Área] | [Papel] | [Horas] |
 | [Nome 2] | [Curso] | [Área] | [Papel] | [Horas] |
 | [Nome 3] | [Curso] | [Área] | [Papel] | [Horas] |
 
@@ -90,6 +106,11 @@ Pesquisar como usar o Rust em embarcados e explorar seu uso dentro dessa área.
 **Áreas representadas:**
 - [ ] Ciência da Computação
 - [ ] Engenharia da Computação
+- [ ] Engenharia Eletrônica
+- [ ] Engenharia Mecânica
+- [ ] Design
+- [ ] Administração
+- [ ] Outras: _________________
 
 ### 4.3 Orientadores e Colaboradores Externos
 | Nome | Vínculo | Papel | Tipo de Apoio |
@@ -103,40 +124,28 @@ Pesquisar como usar o Rust em embarcados e explorar seu uso dentro dessa área.
 
 ### 5.1 Abordagem Metodológica
 [Descrever a metodologia geral: metodologia ágil, design thinking, pesquisa-ação, etc]
-Pesquisa-ação
 
 ### 5.2 Fases do Projeto
 
-#### Fase 1: Aproximação com Rust
-**Período:** 15/12/2025 - 30/12/2025
-**Objetivos:** Compreesão de como a linguagem funciona
-**Atividades:**
-- Ler documentação da linguagem
-- Implementar códigos simples em rust
-- Ler documentação da linguagem para embarcados
-- Implementar códigos simples em rust para embarcados 
-
-#### Fase 2: Projetos de Embarcados com Rust 
-**Período:** 02/01/2026 - 17/01/2026
-**Objetivos:** Compreensão de como a linguagem é usada em embarcados
-**Atividades:** 
-- Pesquisar e Documentar projetos de embarcados feitos com rust
-- Implementar códigos em rust voltados para embarcado (buscar um exemplo simples) online
-- [Atividade 2] 
-- [Atividade 3] 
-
-#### Fase 3: Projetando e Implementando com Rust
-**Período:** 20/01/2026 - 04/02/2026
-**Objetivos:** Replicar projetos existentes da melhor maneira possível
-**Atividades:** 
-- Projetos Básicos: https://www.youtube.com/playlist?list=PLMqshdJjWZdl4K_jtM15OP3brRgcIJRGk 
-- Projeto 1: Seguidor de linha https://github.com/careyi3/line_follower
-- Projeto 2: Coisas que voam https://github.com/holsatus/holsatus-flight 
-- Projeto 3: GPS tracker https://github.com/timbod7/gps-tracker
-
-#### Fase 4: Resultados e Análises
+#### Fase 1: [Nome da Fase]
 **Período:** [Data início - Data fim]  
-**Objetivos:** Analisar performance e desempenho nos projetos feitos
+**Objetivos:** [Objetivos específicos desta fase]  
+**Atividades:**
+- [Atividade 1]
+- [Atividade 2]
+- [Atividade 3]
+
+#### Fase 2: [Nome da Fase]
+**Período:** [Data início - Data fim]  
+**Objetivos:** [Objetivos específicos desta fase]  
+**Atividades:**
+- [Atividade 1]
+- [Atividade 2]
+- [Atividade 3]
+
+#### Fase 3: [Nome da Fase]
+**Período:** [Data início - Data fim]  
+**Objetivos:** [Objetivos específicos desta fase]  
 **Atividades:**
 - [Atividade 1]
 - [Atividade 2]
@@ -144,7 +153,6 @@ Pesquisa-ação
 
 ### 5.3 Ferramentas e Tecnologias
 **Hardware:**
-- pelo menos um microcontrolador (esp,stm,arduino)
 - [Equipamento/Plataforma 1]
 - [Equipamento/Plataforma 2]
 
@@ -177,7 +185,6 @@ Pesquisa-ação
 - [Premissa 3]
 
 ### 6.4 Restrições
-- não se aplica
 - [Restrição 1: ex: orçamento]
 - [Restrição 2: ex: prazo]
 - [Restrição 3: ex: recursos disponíveis]
@@ -244,8 +251,6 @@ A = Alta | M = Média | B = Baixa
 
 ## 10. Plano de Comunicação e Divulgação
 
-não se aplica, eu acho
-
 ### 10.1 Comunicação Interna
 **Reuniões da Equipe:**
 - **Frequência:** [Periodicidade]
@@ -281,8 +286,6 @@ não se aplica, eu acho
 ---
 
 ## 11. Plano de Parcerias e Extensão
-
-não se aplica, eu acho
 
 ### 11.1 Parcerias Previstas
 | Organização | Tipo | Natureza da Parceria | Status | Contato |
@@ -385,7 +388,7 @@ não se aplica, eu acho
 
 | Versão | Data | Autor | Descrição das Alterações |
 |--------|------|-------|--------------------------|
-| 1.0 | 04/12/2026 | madss | Versão inicial |
+| 1.0 | [Data] | [Nome] | Versão inicial |
 | | | | |
 
 ---
