@@ -6,6 +6,14 @@
 **Versão:** 1.0  
 **Data:** [DD/MM/AAAA]
 
+### Recursos para Analisar
+- (focus on real-time control systems, sensor integration, telemetry, and communication)
+- https://www.instructables.com/How-to-Make-Your-TDE-331-Rocket/
+- https://www.jpl.nasa.gov/edu/resources/lesson-plan/stomp-rockets/
+- https://www.instructables.com/How-to-Build-a-High-Powered-Rocket/
+- https://www.nar.org/
+- https://openrocket.info/ (software para simular foguetes)
+
 ---
 
 ## 1. Identificação do Projeto
